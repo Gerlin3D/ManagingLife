@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "D:\\Fullstack\\Projects\\ManagingLife\\backend-fastapi\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "D:\\Fullstack\\Projects\\ManagingLife\\backend-fastapi"
+  ],
+  "python.analysis.diagnosticMode": "workspace"
+}
